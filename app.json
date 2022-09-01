@@ -1,5 +1,5 @@
 {
-  "name": "جيبثون العرب",
+  "name": "ماتركس العربي",
   "description": "اللهم صلِ على محمد وآل محمد",
   "logo": "https://telegra.ph/file/1b4a133e03c9e21d100be.jpg",
   "keywords": [
@@ -7,7 +7,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/jepthoniq/lMl10l/",
+  "repository": "https://github.com/bbhh1/matrix/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -60,7 +60,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس لا تغيره ابدا",
-      "value": "jepthoniq",
+      "value": "https://github.com/bbhh1/matrix_userboot",
       "required": false
     }
   },
