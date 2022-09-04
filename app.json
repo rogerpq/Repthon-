@@ -12,27 +12,27 @@
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
-      "description": "هنا ضع اسم التلجرام الخاص بك",
+      "description": " ضع اسم التلكرام ",
       "value": ""
     },
     "APP_ID": {
-      "description": "هنا ضع الاب ايدي الخاص بك يتكون من 8 ارقام", 
+      "description": "ضع الايبي ايدي 8 ارقام الخـاص بـك", 
       "value": ""
     },
     "API_HASH": {
-      "description": "هنا ضع الايبي هاش الخاص بك",
+      "description": " ضع الايبي هاش الخاص بك",
       "value": ""
     },
     "ENV": {
-      "description": "لا تغير هذه القيمه",
+      "description": "لاتغير شي",
       "value": "ANYTHING"
     },
     "COMMAND_HAND_LER": {
-      "description": "لا تغير هذه القيمه",
+      "description": "لاتغير شي",
       "value": "."
     },
     "STRING_SESSION": {
-      "description": "هنا ضع كود سيشن تيليثون كود تيرمكس الخاص بك",
+      "description": "هنا ضع كود كود تيرمكس الخاص بك",
       "value": ""
     },
     "TG_BOT_USERNAME": {
