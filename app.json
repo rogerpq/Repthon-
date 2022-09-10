@@ -1,13 +1,13 @@
 {
-  "name": "ماتركس العربي",
+  "name": "ريبثون-𝐑𝐄𝐏𝐓𝐇𝐎𝐍",
   "description": "اللهم صلِ على محمد وآل محمد",
-  "logo": "https://telegra.ph/file/d6822b72954a42647f785.jpg",
+  "logo": "https://telegra.ph/file/3c94ca5689657533c86e9.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/bbhh1/matrix/",
+  "repository": "https://github.com/rogerpq/Repthon-/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -60,7 +60,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس لا تغيره ابدا",
-      "value": "https://github.com/bbhh1/matrix_userboot",
+      "value": "Rep",
       "required": false
     }
   },
